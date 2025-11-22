@@ -26,7 +26,7 @@
 
 1. Go to:
    ```
-   cafe_system -> src -> dao
+   cd cafe_system/src/dao
    ```
 2. Run `tables.java` to automatically create all required tables.
 3. If table creation fails:
@@ -39,13 +39,13 @@
 
 1. Go to either:
    ```
-   src/view/
+   cd cafe_system/src/view
    ```
    or
    ```
-   src/cafeManagementSystem/
+   cd cafe_system/src/cafeManagementSystem
    ```
-2. Run any main form (usually Login.java or Home.java)
+2. Run any form (It will always run the Welcome Form first)
 
 ---
 
